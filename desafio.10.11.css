@@ -92,7 +92,7 @@ p {
  /* Formulario */
 
  hr {
-    margin: 400px 100px 50px 100px;
+    margin: 200px 100px 50px 100px;
     clear: left;
     padding: 1px;
     background: black;
@@ -103,7 +103,7 @@ p {
   margin: 0px auto;
 }
  form {
-    
+    margin: 0px 0px 0px 200px;
     clear: left;
   }
   
@@ -152,14 +152,12 @@ p {
 }
 
 .mapa {
-    width: 940px;
     margin: 0px auto;
     padding: 3em 0;
 }
 
 .video {
-    width: 940px;
-    margin: 0px auto ;
+    margin: 0px 0px 0px 200px ;
     padding: 3em 0;
 }
 
@@ -181,8 +179,7 @@ p {
 
 footer {
     background: #4d91e4;
-    text-align: center;
-    
+
 }
 
 .texto-footer {
@@ -194,7 +191,6 @@ footer {
 
 .logo-footer {
     border: 2px solid black;
-    box-sizing: border-box;
     margin-top: 50px;
     display: block;
     width: 100px;
